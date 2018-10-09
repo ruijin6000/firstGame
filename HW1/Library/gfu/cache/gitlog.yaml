@@ -12,9 +12,363 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-09T11:30:50.466-07:00
+  lastUpdatedAtString: 2018-10-09T11:36:36.749-07:00
   initializedAtString: 2018-10-09T11:30:50.466-07:00
   log:
+  - commitID: 533f7d02d847e8bf596d529b946c63a303d4c061
+    mergeA: c2784a6f8e98a0dfa771239394a1cb80f4ae6bc4
+    mergeB: dc82db7495e1923b7e95a1a3d41b3ef9b475fab9
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #6 from ruijin6000/finishSetUp'
+    description: 'Merge pull request #6 from ruijin6000/finishSetUp
+
+
+      set up character and monster'
+    timeString: 2018-10-09T11:31:52.000-07:00
+    commitTimeString: 2018-10-09T11:31:52.000-07:00
+    changes: []
+  - commitID: dc82db7495e1923b7e95a1a3d41b3ef9b475fab9
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: set up character and monster
+    description: set up character and monster
+    timeString: 2018-10-09T11:31:08.000-07:00
+    commitTimeString: 2018-10-09T11:31:08.000-07:00
+    changes:
+    - path: HW1/Assets/ArtWork/Monster_back.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_back.png
+      projectPath: Assets/ArtWork/Monster_back.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_back.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_back.png.meta
+      projectPath: Assets/ArtWork/Monster_back.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_front.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_front.png
+      projectPath: Assets/ArtWork/Monster_front.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_front.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_front.png.meta
+      projectPath: Assets/ArtWork/Monster_front.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_left.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_left.png
+      projectPath: Assets/ArtWork/Monster_left.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_left.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_left.png.meta
+      projectPath: Assets/ArtWork/Monster_left.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_right.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_right.png
+      projectPath: Assets/ArtWork/Monster_right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/Monster_right.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/Monster_right.png.meta
+      projectPath: Assets/ArtWork/Monster_right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Back.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Back.png
+      projectPath: Assets/ArtWork/RB_Back.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Back.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Back.png.meta
+      projectPath: Assets/ArtWork/RB_Back.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Front.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Front.png
+      projectPath: Assets/ArtWork/RB_Front.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Front.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Front.png.meta
+      projectPath: Assets/ArtWork/RB_Front.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Left.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Left.png
+      projectPath: Assets/ArtWork/RB_Left.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Left.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Left.png.meta
+      projectPath: Assets/ArtWork/RB_Left.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Right.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Right.png
+      projectPath: Assets/ArtWork/RB_Right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/ArtWork/RB_Right.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/ArtWork/RB_Right.png.meta
+      projectPath: Assets/ArtWork/RB_Right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/CrashedAssetImports.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/CurrentLayout.dwlt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/EditorInstance.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/LastSceneManagerSetup.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/LastSceneManagerSetup.txt
+      projectPath: Library/LastSceneManagerSetup.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ProjectSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ProjectSettings.asset
+      projectPath: Library/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/assetDatabase3
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/expandedItems
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/gfu/cache/branches.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532
+      projectPath: Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532.info
+      projectPath: Library/metadata/11/11d30fa47d39f4fd298d79db6ef39532.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156
+      projectPath: Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156.info
+      projectPath: Library/metadata/15/152fa40311fbd4e3f9262cb4ded29156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5
+      projectPath: Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5.info
+      projectPath: Library/metadata/50/50bc3d26b6d6444e0975f257008d4df5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7
+      projectPath: Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7.info
+      projectPath: Library/metadata/7a/7ae7c0710c2784177b3a8982ccb979d7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d
+      projectPath: Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d.info
+      projectPath: Library/metadata/82/82aa4b85b62ee4a87aedc5d8af62339d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c
+      projectPath: Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c.info
+      projectPath: Library/metadata/a9/a9da2054d1eae4c2681a788bf47c4f6c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/d8/d84d97a432d634784bac95b3a60e8961
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/d8/d84d97a432d634784bac95b3a60e8961
+      projectPath: Library/metadata/d8/d84d97a432d634784bac95b3a60e8961
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/d8/d84d97a432d634784bac95b3a60e8961.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/d8/d84d97a432d634784bac95b3a60e8961.info
+      projectPath: Library/metadata/d8/d84d97a432d634784bac95b3a60e8961.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/db/db0397b8a41e44974a281edbbe9e711b
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/db/db0397b8a41e44974a281edbbe9e711b
+      projectPath: Library/metadata/db/db0397b8a41e44974a281edbbe9e711b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/db/db0397b8a41e44974a281edbbe9e711b.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/db/db0397b8a41e44974a281edbbe9e711b.info
+      projectPath: Library/metadata/db/db0397b8a41e44974a281edbbe9e711b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-0a2ba5d4c4b444c979339d2a3650878c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-0a2ba5d4c4b444c979339d2a3650878c
+      projectPath: Temp/UnityTempFile-0a2ba5d4c4b444c979339d2a3650878c
+      originalPath: HW1/Temp/UnityTempFile-12d61efeedda342caa089400df148139
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-23d1d5b2286754f298f172edcbee754c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-23d1d5b2286754f298f172edcbee754c
+      projectPath: Temp/UnityTempFile-23d1d5b2286754f298f172edcbee754c
+      originalPath: HW1/Temp/UnityTempFile-343a7a3a560484984a84b6bf3cf91144
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-2967d19b57a494f69a4e25f75d956649
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-2967d19b57a494f69a4e25f75d956649
+      projectPath: Temp/UnityTempFile-2967d19b57a494f69a4e25f75d956649
+      originalPath: HW1/Temp/UnityTempFile-17a85de29157b408696473c85111078b
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-dcd2169bdf40249d288253b832e0d223
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-dcd2169bdf40249d288253b832e0d223
+      projectPath: Temp/UnityTempFile-dcd2169bdf40249d288253b832e0d223
+      originalPath: HW1/Temp/UnityTempFile-1800bcbc27df743768db7673a253416b
+      status: 6
+      staged: 0
+  - commitID: c2784a6f8e98a0dfa771239394a1cb80f4ae6bc4
+    mergeA: 
+    mergeB: 
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: Update README.md
+    timeString: 2018-10-08T21:06:29.000-07:00
+    commitTimeString: 2018-10-08T21:06:29.000-07:00
+    changes:
+    - path: README.md
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/README.md
+      projectPath: ../README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: addc7cd0b8be87a3fee927c07167d8e701812130
+    mergeA: 1a85f7a197a03b5c35dc3bfd75d085da4931b650
+    mergeB: 745daa0af7e9d5f015e4f40c8006755ec965365f
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #5 from ruijin6000/finishSetUp'
+    description: 'Merge pull request #5 from ruijin6000/finishSetUp
+
+
+      finish set up'
+    timeString: 2018-10-08T21:04:56.000-07:00
+    commitTimeString: 2018-10-08T21:04:56.000-07:00
+    changes: []
   - commitID: 745daa0af7e9d5f015e4f40c8006755ec965365f
     mergeA: 
     mergeB: 
