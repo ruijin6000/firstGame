@@ -1,0 +1,1226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-10-08T20:33:37.578-07:00
+  initializedAtString: 2018-10-08T20:33:24.672-07:00
+  log:
+  - commitID: b42e872c1ad52ad6c3979d9ad0cf1607cb2f62d0
+    mergeA: 
+    mergeB: 
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: Create README.md
+    timeString: 2018-10-08T18:34:25.000-07:00
+    commitTimeString: 2018-10-08T18:34:25.000-07:00
+    changes:
+    - path: README.md
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/README.md
+      projectPath: ../README.md
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 847f132f955d9587ecae30398d2aa4fd56c93d9f
+    mergeA: 3b99064675fcbaee661d6bd2f66adc6d639113ca
+    mergeB: 6cd3e0e0e2167c862acea5b5065d6756500d0001
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #3 from ruijin6000/Test1'
+    description: 'Merge pull request #3 from ruijin6000/Test1
+
+
+      Test1'
+    timeString: 2018-10-08T16:37:42.000-07:00
+    commitTimeString: 2018-10-08T16:37:42.000-07:00
+    changes: []
+  - commitID: 6cd3e0e0e2167c862acea5b5065d6756500d0001
+    mergeA: c345f9160bd3508446dcb1545d3dc9edf3340524
+    mergeB: 3b99064675fcbaee661d6bd2f66adc6d639113ca
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: Merge branch 'master' of https://github.com/ruijin6000/firstGame
+    description: Merge branch 'master' of https://github.com/ruijin6000/firstGame
+    timeString: 2018-10-08T15:59:05.000-07:00
+    commitTimeString: 2018-10-08T15:59:05.000-07:00
+    changes: []
+  - commitID: 3b99064675fcbaee661d6bd2f66adc6d639113ca
+    mergeA: 40846f1cb910dba2d32e8ae4544891d6449cb89d
+    mergeB: 7245a9db0940901a09f9d2d45913d1de99a59eba
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #2 from ruijin6000/temp1'
+    description: 'Merge pull request #2 from ruijin6000/temp1
+
+
+      Revert "commit-test1"'
+    timeString: 2018-10-08T15:55:36.000-07:00
+    commitTimeString: 2018-10-08T15:55:36.000-07:00
+    changes: []
+  - commitID: 7245a9db0940901a09f9d2d45913d1de99a59eba
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: Revert "commit-test1"
+    description: 'Revert "commit-test1"
+
+
+      This reverts commit ff4b3633194dd55bf06f9899d7ca684b9c86004b.'
+    timeString: 2018-10-08T14:00:58.000-07:00
+    commitTimeString: 2018-10-08T14:00:58.000-07:00
+    changes:
+    - path: Assets/ArtWork.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork.meta
+      projectPath: ../Assets/ArtWork.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/ArtWork/Cube.prefab
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork/Cube.prefab
+      projectPath: ../Assets/ArtWork/Cube.prefab
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/ArtWork/Cube.prefab.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork/Cube.prefab.meta
+      projectPath: ../Assets/ArtWork/Cube.prefab.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins.meta
+      projectPath: ../Assets/Plugins.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub.meta
+      projectPath: ../Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: ../Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: ../Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: ../Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: ../Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: ../Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes.meta
+      projectPath: ../Assets/Scenes.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/SampleScene.unity
+      projectPath: ../Assets/Scenes/SampleScene.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/SampleScene.unity.meta
+      projectPath: ../Assets/Scenes/SampleScene.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Scenes/myScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/myScene.unity
+      projectPath: ../Assets/Scenes/myScene.unity
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Scenes/myScene.unity.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/myScene.unity.meta
+      projectPath: ../Assets/Scenes/myScene.unity.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/Script.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Script.meta
+      projectPath: ../Assets/Script.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Packages/manifest.json
+      projectPath: ../Packages/manifest.json
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/AudioManager.asset
+      projectPath: ../ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ClusterInputManager.asset
+      projectPath: ../ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/DynamicsManager.asset
+      projectPath: ../ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ../ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/EditorSettings.asset
+      projectPath: ../ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/GraphicsSettings.asset
+      projectPath: ../ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/InputManager.asset
+      projectPath: ../ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/NavMeshAreas.asset
+      projectPath: ../ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/NetworkManager.asset
+      projectPath: ../ProjectSettings/NetworkManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/Physics2DSettings.asset
+      projectPath: ../ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/PresetManager.asset
+      projectPath: ../ProjectSettings/PresetManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ProjectSettings.asset
+      projectPath: ../ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ProjectVersion.txt
+      projectPath: ../ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/QualitySettings.asset
+      projectPath: ../ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/TagManager.asset
+      projectPath: ../ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/TimeManager.asset
+      projectPath: ../ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ../ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: c345f9160bd3508446dcb1545d3dc9edf3340524
+    mergeA: ab2412840335c8d91f62920202d5093b71388889
+    mergeB: 40846f1cb910dba2d32e8ae4544891d6449cb89d
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: Merge branch 'master' of https://github.com/ruijin6000/firstGame
+    description: Merge branch 'master' of https://github.com/ruijin6000/firstGame
+    timeString: 2018-10-08T13:59:27.000-07:00
+    commitTimeString: 2018-10-08T13:59:27.000-07:00
+    changes: []
+  - commitID: 40846f1cb910dba2d32e8ae4544891d6449cb89d
+    mergeA: de58f567d99b40f75e93a4fc883b36b3e726bb16
+    mergeB: ff4b3633194dd55bf06f9899d7ca684b9c86004b
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #1 from ruijin6000/temp1'
+    description: 'Merge pull request #1 from ruijin6000/temp1
+
+
+      commit-test1'
+    timeString: 2018-10-08T13:59:06.000-07:00
+    commitTimeString: 2018-10-08T13:59:06.000-07:00
+    changes: []
+  - commitID: ff4b3633194dd55bf06f9899d7ca684b9c86004b
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: commit-test1
+    description: commit-test1
+    timeString: 2018-10-08T13:57:50.000-07:00
+    commitTimeString: 2018-10-08T13:57:50.000-07:00
+    changes:
+    - path: Assets/ArtWork.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork.meta
+      projectPath: ../Assets/ArtWork.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/ArtWork/Cube.prefab
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork/Cube.prefab
+      projectPath: ../Assets/ArtWork/Cube.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/ArtWork/Cube.prefab.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/ArtWork/Cube.prefab.meta
+      projectPath: ../Assets/ArtWork/Cube.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins.meta
+      projectPath: ../Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub.meta
+      projectPath: ../Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: ../Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: ../Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: ../Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: ../Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: ../Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: ../Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes.meta
+      projectPath: ../Assets/Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/SampleScene.unity
+      projectPath: ../Assets/Scenes/SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/SampleScene.unity.meta
+      projectPath: ../Assets/Scenes/SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/myScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/myScene.unity
+      projectPath: ../Assets/Scenes/myScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/myScene.unity.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Scenes/myScene.unity.meta
+      projectPath: ../Assets/Scenes/myScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Script.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/Script.meta
+      projectPath: ../Assets/Script.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Packages/manifest.json
+      projectPath: ../Packages/manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/AudioManager.asset
+      projectPath: ../ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ClusterInputManager.asset
+      projectPath: ../ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/DynamicsManager.asset
+      projectPath: ../ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ../ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/EditorSettings.asset
+      projectPath: ../ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/GraphicsSettings.asset
+      projectPath: ../ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/InputManager.asset
+      projectPath: ../ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/NavMeshAreas.asset
+      projectPath: ../ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/NetworkManager.asset
+      projectPath: ../ProjectSettings/NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/Physics2DSettings.asset
+      projectPath: ../ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/PresetManager.asset
+      projectPath: ../ProjectSettings/PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ProjectSettings.asset
+      projectPath: ../ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/ProjectVersion.txt
+      projectPath: ../ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/QualitySettings.asset
+      projectPath: ../ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/TagManager.asset
+      projectPath: ../ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/TimeManager.asset
+      projectPath: ../ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ../ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ab2412840335c8d91f62920202d5093b71388889
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: Revert "Initial commit"
+    description: 'Revert "Initial commit"
+
+
+      This reverts commit de58f567d99b40f75e93a4fc883b36b3e726bb16.'
+    timeString: 2018-10-08T13:56:21.000-07:00
+    commitTimeString: 2018-10-08T13:56:21.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/.gitattributes
+      projectPath: ../.gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/.gitignore
+      projectPath: ../Assets/.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: de58f567d99b40f75e93a4fc883b36b3e726bb16
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-10-08T13:37:04.000-07:00
+    commitTimeString: 2018-10-08T13:37:04.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/.gitattributes
+      projectPath: ../.gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/.gitignore
+      projectPath: ../.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/Assets/.gitignore
+      projectPath: ../Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
