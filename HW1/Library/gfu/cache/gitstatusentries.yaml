@@ -12,36 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-12T10:38:55.343-07:00
+  lastUpdatedAtString: 2018-10-12T10:41:02.369-07:00
   initializedAtString: 2018-10-12T09:55:31.028-07:00
   entries:
-  - path: HW1/Assets/Scenes/FirstScene.unity
-    fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Scenes/FirstScene.unity
-    projectPath: Assets/Scenes/FirstScene.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HW1/Library/assetDatabase3
-    fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/assetDatabase3
-    projectPath: Library/assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
   - path: HW1/Library/CrashedAssetImports.txt
     fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CrashedAssetImports.txt
     projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: HW1/Library/gfu/cache/branches.yaml
     fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: HW1/Library/gfu/cache/gitlocks.yaml
-    fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlocks.yaml
-    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -60,6 +42,12 @@ MonoBehaviour:
   - path: HW1/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: HW1/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
