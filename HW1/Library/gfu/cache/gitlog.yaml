@@ -12,9 +12,1731 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-10T17:58:42.739-07:00
-  initializedAtString: 2018-10-10T17:58:24.598-07:00
+  lastUpdatedAtString: 2018-10-12T10:00:51.156-07:00
+  initializedAtString: 2018-10-12T09:59:42.940-07:00
   log:
+  - commitID: 8e174b55571a7827854fa1318b255ed90ff635bf
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: update
+    description: update
+    timeString: 2018-10-12T09:58:16.000-07:00
+    commitTimeString: 2018-10-12T09:58:16.000-07:00
+    changes:
+    - path: HW1/.vscode/settings.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/.vscode/settings.json
+      projectPath: .vscode/settings.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assembly-CSharp.csproj
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Scenes/FirstScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Scenes/FirstScene.unity
+      projectPath: Assets/Scenes/FirstScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Scenes/FirstScene.unity.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Scenes/FirstScene.unity.meta
+      projectPath: Assets/Scenes/FirstScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script.meta
+      projectPath: Assets/Script.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute.meta
+      projectPath: Assets/Script/Attirbute.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/BulletAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/BulletAttribute.cs
+      projectPath: Assets/Script/Attirbute/BulletAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/BulletAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/BulletAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/BulletAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/CollectableAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/CollectableAttribute.cs
+      projectPath: Assets/Script/Attirbute/CollectableAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/CollectableAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/CollectableAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/CollectableAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/DestroyForPointsAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/DestroyForPointsAttribute.cs
+      projectPath: Assets/Script/Attirbute/DestroyForPointsAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/DestroyForPointsAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/DestroyForPointsAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/DestroyForPointsAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/HealthSystemAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/HealthSystemAttribute.cs
+      projectPath: Assets/Script/Attirbute/HealthSystemAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/HealthSystemAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/HealthSystemAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/HealthSystemAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/ModifyHealthAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/ModifyHealthAttribute.cs
+      projectPath: Assets/Script/Attirbute/ModifyHealthAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/ModifyHealthAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/ModifyHealthAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/ModifyHealthAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/ResourceAttribute.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/ResourceAttribute.cs
+      projectPath: Assets/Script/Attirbute/ResourceAttribute.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Attirbute/ResourceAttribute.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Attirbute/ResourceAttribute.cs.meta
+      projectPath: Assets/Script/Attirbute/ResourceAttribute.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion.meta
+      projectPath: Assets/Script/Condtion.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action.meta
+      projectPath: Assets/Script/Condtion/Action.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/ConsumeResourceAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/ConsumeResourceAction.cs
+      projectPath: Assets/Script/Condtion/Action/ConsumeResourceAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/ConsumeResourceAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/ConsumeResourceAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/ConsumeResourceAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/CreateObjectAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/CreateObjectAction.cs
+      projectPath: Assets/Script/Condtion/Action/CreateObjectAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/CreateObjectAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/CreateObjectAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/CreateObjectAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/DestroyAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/DestroyAction.cs
+      projectPath: Assets/Script/Condtion/Action/DestroyAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/DestroyAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/DestroyAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/DestroyAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/DialogueBalloonAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/DialogueBalloonAction.cs
+      projectPath: Assets/Script/Condtion/Action/DialogueBalloonAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/DialogueBalloonAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/DialogueBalloonAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/DialogueBalloonAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/LoadLevelAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/LoadLevelAction.cs
+      projectPath: Assets/Script/Condtion/Action/LoadLevelAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/LoadLevelAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/LoadLevelAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/LoadLevelAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/OnOffAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/OnOffAction.cs
+      projectPath: Assets/Script/Condtion/Action/OnOffAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/OnOffAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/OnOffAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/OnOffAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/TeleportAction.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/TeleportAction.cs
+      projectPath: Assets/Script/Condtion/Action/TeleportAction.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/Action/TeleportAction.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/Action/TeleportAction.cs.meta
+      projectPath: Assets/Script/Condtion/Action/TeleportAction.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionArea.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionArea.cs
+      projectPath: Assets/Script/Condtion/ConditionArea.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionArea.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionArea.cs.meta
+      projectPath: Assets/Script/Condtion/ConditionArea.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionCollision.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionCollision.cs
+      projectPath: Assets/Script/Condtion/ConditionCollision.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionCollision.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionCollision.cs.meta
+      projectPath: Assets/Script/Condtion/ConditionCollision.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionKeyPress.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionKeyPress.cs
+      projectPath: Assets/Script/Condtion/ConditionKeyPress.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionKeyPress.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionKeyPress.cs.meta
+      projectPath: Assets/Script/Condtion/ConditionKeyPress.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionRepeat.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionRepeat.cs
+      projectPath: Assets/Script/Condtion/ConditionRepeat.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Condtion/ConditionRepeat.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Condtion/ConditionRepeat.cs.meta
+      projectPath: Assets/Script/Condtion/ConditionRepeat.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay.meta
+      projectPath: Assets/Script/GamePlay.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/AutoObjectSpawner.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/AutoObjectSpawner.cs
+      projectPath: Assets/Script/GamePlay/AutoObjectSpawner.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/AutoObjectSpawner.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/AutoObjectSpawner.cs.meta
+      projectPath: Assets/Script/GamePlay/AutoObjectSpawner.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/ObjectShooter.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/ObjectShooter.cs
+      projectPath: Assets/Script/GamePlay/ObjectShooter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/ObjectShooter.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/ObjectShooter.cs.meta
+      projectPath: Assets/Script/GamePlay/ObjectShooter.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/PickUpAndHold.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/PickUpAndHold.cs
+      projectPath: Assets/Script/GamePlay/PickUpAndHold.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/PickUpAndHold.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/PickUpAndHold.cs.meta
+      projectPath: Assets/Script/GamePlay/PickUpAndHold.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/TimedSelfDestruct.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/TimedSelfDestruct.cs
+      projectPath: Assets/Script/GamePlay/TimedSelfDestruct.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/GamePlay/TimedSelfDestruct.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/GamePlay/TimedSelfDestruct.cs.meta
+      projectPath: Assets/Script/GamePlay/TimedSelfDestruct.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement.meta
+      projectPath: Assets/Script/Movement.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/AutoMove.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/AutoMove.cs
+      projectPath: Assets/Script/Movement/AutoMove.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/AutoMove.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/AutoMove.cs.meta
+      projectPath: Assets/Script/Movement/AutoMove.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/AutoRotate.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/AutoRotate.cs
+      projectPath: Assets/Script/Movement/AutoRotate.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/AutoRotate.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/AutoRotate.cs.meta
+      projectPath: Assets/Script/Movement/AutoRotate.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/CameraFollow.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/CameraFollow.cs
+      projectPath: Assets/Script/Movement/CameraFollow.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/CameraFollow.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/CameraFollow.cs.meta
+      projectPath: Assets/Script/Movement/CameraFollow.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/FollowTarget.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/FollowTarget.cs
+      projectPath: Assets/Script/Movement/FollowTarget.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/FollowTarget.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/FollowTarget.cs.meta
+      projectPath: Assets/Script/Movement/FollowTarget.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Jump.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Jump.cs
+      projectPath: Assets/Script/Movement/Jump.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Jump.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Jump.cs.meta
+      projectPath: Assets/Script/Movement/Jump.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Move.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Move.cs
+      projectPath: Assets/Script/Movement/Move.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Move.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Move.cs.meta
+      projectPath: Assets/Script/Movement/Move.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Patrol.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Patrol.cs
+      projectPath: Assets/Script/Movement/Patrol.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Patrol.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Patrol.cs.meta
+      projectPath: Assets/Script/Movement/Patrol.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Push.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Push.cs
+      projectPath: Assets/Script/Movement/Push.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Push.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Push.cs.meta
+      projectPath: Assets/Script/Movement/Push.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Rotate.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Rotate.cs
+      projectPath: Assets/Script/Movement/Rotate.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Rotate.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Rotate.cs.meta
+      projectPath: Assets/Script/Movement/Rotate.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Wander.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Wander.cs
+      projectPath: Assets/Script/Movement/Wander.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/Movement/Wander.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/Movement/Wander.cs.meta
+      projectPath: Assets/Script/Movement/Wander.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/NewBehaviourScript.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/NewBehaviourScript.cs
+      projectPath: Assets/Script/NewBehaviourScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Script/NewBehaviourScript.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Script/NewBehaviourScript.cs.meta
+      projectPath: Assets/Script/NewBehaviourScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/HW1.sln
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/HW1.sln
+      projectPath: HW1.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/CrashedAssetImports.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Library/EditorInstance.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Library/assetDatabase3
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/branches.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/metadata/03/03d8403f921d04d37853a9c4fc72c381
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/03/03d8403f921d04d37853a9c4fc72c381
+      projectPath: Library/metadata/03/03d8403f921d04d37853a9c4fc72c381
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/03/03d8403f921d04d37853a9c4fc72c381.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/03/03d8403f921d04d37853a9c4fc72c381.info
+      projectPath: Library/metadata/03/03d8403f921d04d37853a9c4fc72c381.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/05/051bd4989642a4c70985c212c44627ff
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/05/051bd4989642a4c70985c212c44627ff
+      projectPath: Library/metadata/05/051bd4989642a4c70985c212c44627ff
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/05/051bd4989642a4c70985c212c44627ff.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/05/051bd4989642a4c70985c212c44627ff.info
+      projectPath: Library/metadata/05/051bd4989642a4c70985c212c44627ff.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/08/08482e787f5d24affb03a12a3135b6e2
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/08/08482e787f5d24affb03a12a3135b6e2
+      projectPath: Library/metadata/08/08482e787f5d24affb03a12a3135b6e2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/08/08482e787f5d24affb03a12a3135b6e2.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/08/08482e787f5d24affb03a12a3135b6e2.info
+      projectPath: Library/metadata/08/08482e787f5d24affb03a12a3135b6e2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f
+      projectPath: Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f.info
+      projectPath: Library/metadata/0e/0ef598d7045a04eb1ae4268a3bd33d7f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/11/11b8e3080e8254142859fbe5905ba365
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/11/11b8e3080e8254142859fbe5905ba365
+      projectPath: Library/metadata/11/11b8e3080e8254142859fbe5905ba365
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/11/11b8e3080e8254142859fbe5905ba365.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/11/11b8e3080e8254142859fbe5905ba365.info
+      projectPath: Library/metadata/11/11b8e3080e8254142859fbe5905ba365.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/12/123a91a8580714dd29380acd7e441653
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/12/123a91a8580714dd29380acd7e441653
+      projectPath: Library/metadata/12/123a91a8580714dd29380acd7e441653
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/12/123a91a8580714dd29380acd7e441653.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/12/123a91a8580714dd29380acd7e441653.info
+      projectPath: Library/metadata/12/123a91a8580714dd29380acd7e441653.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3
+      projectPath: Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3.info
+      projectPath: Library/metadata/31/31251fc6b6c2b454e910f9eb2a028be3.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/3e/3eeb90c1828674389b3c15560899768b
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/3e/3eeb90c1828674389b3c15560899768b
+      projectPath: Library/metadata/3e/3eeb90c1828674389b3c15560899768b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/3e/3eeb90c1828674389b3c15560899768b.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/3e/3eeb90c1828674389b3c15560899768b.info
+      projectPath: Library/metadata/3e/3eeb90c1828674389b3c15560899768b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719
+      projectPath: Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719.info
+      projectPath: Library/metadata/4b/4baeb45e60167490fa8f9ac8f2104719.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/57/57286c7b324ba4a1090cdb6206836794
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/57/57286c7b324ba4a1090cdb6206836794
+      projectPath: Library/metadata/57/57286c7b324ba4a1090cdb6206836794
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/57/57286c7b324ba4a1090cdb6206836794.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/57/57286c7b324ba4a1090cdb6206836794.info
+      projectPath: Library/metadata/57/57286c7b324ba4a1090cdb6206836794.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36
+      projectPath: Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36.info
+      projectPath: Library/metadata/5a/5ad76f1e588fe4556b3f9ce894fa6c36.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79
+      projectPath: Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79.info
+      projectPath: Library/metadata/5e/5e126e7e97bf14a15bd4e2eaf76b6f79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5
+      projectPath: Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5.info
+      projectPath: Library/metadata/63/636c51059ed624c80bb2e0d8ea6a95d5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed
+      projectPath: Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed.info
+      projectPath: Library/metadata/67/673de82988eac45c3aa6a8599a6ab2ed.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01
+      projectPath: Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01.info
+      projectPath: Library/metadata/67/678c2540fc34d45feb9bf7eb0e716d01.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/70/70c488d2eef0645af870b528728a8853
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/70/70c488d2eef0645af870b528728a8853
+      projectPath: Library/metadata/70/70c488d2eef0645af870b528728a8853
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/70/70c488d2eef0645af870b528728a8853.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/70/70c488d2eef0645af870b528728a8853.info
+      projectPath: Library/metadata/70/70c488d2eef0645af870b528728a8853.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201
+      projectPath: Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201.info
+      projectPath: Library/metadata/70/70cc326a2450b4fbcb9e0fca7cb77201.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/72/72dbaf413878d4c38b963f21a59230f2
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/72/72dbaf413878d4c38b963f21a59230f2
+      projectPath: Library/metadata/72/72dbaf413878d4c38b963f21a59230f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/72/72dbaf413878d4c38b963f21a59230f2.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/72/72dbaf413878d4c38b963f21a59230f2.info
+      projectPath: Library/metadata/72/72dbaf413878d4c38b963f21a59230f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/74/7438370aec3e04a79b3af494736a232d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/74/7438370aec3e04a79b3af494736a232d
+      projectPath: Library/metadata/74/7438370aec3e04a79b3af494736a232d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/74/7438370aec3e04a79b3af494736a232d.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/74/7438370aec3e04a79b3af494736a232d.info
+      projectPath: Library/metadata/74/7438370aec3e04a79b3af494736a232d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/76/7632c72703caf463da5fc6b756fb36df
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/76/7632c72703caf463da5fc6b756fb36df
+      projectPath: Library/metadata/76/7632c72703caf463da5fc6b756fb36df
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/76/7632c72703caf463da5fc6b756fb36df.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/76/7632c72703caf463da5fc6b756fb36df.info
+      projectPath: Library/metadata/76/7632c72703caf463da5fc6b756fb36df.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8
+      projectPath: Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8.info
+      projectPath: Library/metadata/77/77d2c2d9b10eb4760a357e4d0fb349c8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/7a/7aaad673d7364490d87695a4538368a8
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/7a/7aaad673d7364490d87695a4538368a8
+      projectPath: Library/metadata/7a/7aaad673d7364490d87695a4538368a8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/7a/7aaad673d7364490d87695a4538368a8.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/7a/7aaad673d7364490d87695a4538368a8.info
+      projectPath: Library/metadata/7a/7aaad673d7364490d87695a4538368a8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/82/826418b0c6c634200a464b4b30f0837d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/82/826418b0c6c634200a464b4b30f0837d
+      projectPath: Library/metadata/82/826418b0c6c634200a464b4b30f0837d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/82/826418b0c6c634200a464b4b30f0837d.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/82/826418b0c6c634200a464b4b30f0837d.info
+      projectPath: Library/metadata/82/826418b0c6c634200a464b4b30f0837d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da
+      projectPath: Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da.info
+      projectPath: Library/metadata/89/8948c73e5107f4e31b121ad519cdf2da.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda
+      projectPath: Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda.info
+      projectPath: Library/metadata/8c/8c37e6f1c69754ed3b4881a10632afda.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b
+      projectPath: Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b.info
+      projectPath: Library/metadata/8e/8eb76f29ab0644ab592672f8de4d9e7b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f
+      projectPath: Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f.info
+      projectPath: Library/metadata/a3/a3a192efdc77d4af2877318acc67a90f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a8/a8910b43d78db456aba34a237bd30b06
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a8/a8910b43d78db456aba34a237bd30b06
+      projectPath: Library/metadata/a8/a8910b43d78db456aba34a237bd30b06
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a8/a8910b43d78db456aba34a237bd30b06.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a8/a8910b43d78db456aba34a237bd30b06.info
+      projectPath: Library/metadata/a8/a8910b43d78db456aba34a237bd30b06.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a93b7249b804c4245add9e717def54d0
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a93b7249b804c4245add9e717def54d0
+      projectPath: Library/metadata/a9/a93b7249b804c4245add9e717def54d0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a93b7249b804c4245add9e717def54d0.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a93b7249b804c4245add9e717def54d0.info
+      projectPath: Library/metadata/a9/a93b7249b804c4245add9e717def54d0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62
+      projectPath: Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62.info
+      projectPath: Library/metadata/a9/a9e080c4df79c48f69a2a80a7db51e62.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19
+      projectPath: Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19.info
+      projectPath: Library/metadata/b2/b210c21cadf09405d8ec96ed2eb5af19.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b8/b815e3cecc4114c6da4444888598981b
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b8/b815e3cecc4114c6da4444888598981b
+      projectPath: Library/metadata/b8/b815e3cecc4114c6da4444888598981b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b8/b815e3cecc4114c6da4444888598981b.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b8/b815e3cecc4114c6da4444888598981b.info
+      projectPath: Library/metadata/b8/b815e3cecc4114c6da4444888598981b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc
+      projectPath: Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc.info
+      projectPath: Library/metadata/b9/b93e7cf82f2504fa7973e168b573ddcc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513
+      projectPath: Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513.info
+      projectPath: Library/metadata/cd/cd5952ec6bd5641f4bc9ae6b85466513.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d
+      projectPath: Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d.info
+      projectPath: Library/metadata/ce/ce507d0eb24874db4b48f935ab07176d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2
+      projectPath: Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2.info
+      projectPath: Library/metadata/e5/e581ff6dac6ad4e9c828be782f9497f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538
+      projectPath: Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538.info
+      projectPath: Library/metadata/ef/efbb58df46ded48e9ba58811a15ca538.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740
+      projectPath: Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740.info
+      projectPath: Library/metadata/f4/f4c5c441115784b749ae9eede3d2a740.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc
+      projectPath: Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc.info
+      projectPath: Library/metadata/f7/f7f061e2d62b64e498ed8175bcc6cbbc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-0ef18cdab9a234e1f8c38aad39d38b1c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-0ef18cdab9a234e1f8c38aad39d38b1c
+      projectPath: Temp/UnityTempFile-0ef18cdab9a234e1f8c38aad39d38b1c
+      originalPath: HW1/Temp/UnityTempFile-a249f4825815b4dfbbbf1251e8fddd92
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      projectPath: Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      projectPath: Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-4f49a35d72ba049e3b021ef0ab9974a0
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-4f49a35d72ba049e3b021ef0ab9974a0
+      projectPath: Temp/UnityTempFile-4f49a35d72ba049e3b021ef0ab9974a0
+      originalPath: HW1/Temp/UnityTempFile-7336e4f2dccc84427875d1f171667bc6
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-541bc773f12774dff955b778ab415633
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-541bc773f12774dff955b778ab415633
+      projectPath: Temp/UnityTempFile-541bc773f12774dff955b778ab415633
+      originalPath: HW1/Temp/UnityTempFile-8cbfe6a12bb2d4e9c9a9d164ff816767
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-7270785e50d014329887b047e6f7b947
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-7270785e50d014329887b047e6f7b947
+      projectPath: Temp/UnityTempFile-7270785e50d014329887b047e6f7b947
+      originalPath: HW1/Temp/UnityTempFile-969f3ca1b20cf4b129ff9531f0d1ff93
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-845c65863758447f088faf1a1f3cf839
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-845c65863758447f088faf1a1f3cf839
+      projectPath: Temp/UnityTempFile-845c65863758447f088faf1a1f3cf839
+      originalPath: HW1/Temp/UnityTempFile-a63db79dfb53a480a971d427de4fa8c7
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-958a482f52c774bc280c727e940e0202
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-958a482f52c774bc280c727e940e0202
+      projectPath: Temp/UnityTempFile-958a482f52c774bc280c727e940e0202
+      originalPath: HW1/Temp/UnityTempFile-12f7abe89c4394c3aab29c909c76b5e5
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-9996c3d1cc2044ba2b67c5d743fe1458
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-9996c3d1cc2044ba2b67c5d743fe1458
+      projectPath: Temp/UnityTempFile-9996c3d1cc2044ba2b67c5d743fe1458
+      originalPath: HW1/Temp/UnityTempFile-b9569c25a7926410bbcecfba5982f81d
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      projectPath: Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      projectPath: Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      projectPath: Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      projectPath: Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      projectPath: Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 0895a5faa082ecf1a43dfd77b394f07dbac5e262
+    mergeA: aff63ba4d16547ee60525b55aa95e7056fc9f1e7
+    mergeB: 7e3e12331cf946e560ef24a95cd60d74e022074f
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #8 from ruijin6000/map1'
+    description: 'Merge pull request #8 from ruijin6000/map1
+
+
+      new version of github'
+    timeString: 2018-10-11T21:57:05.000-07:00
+    commitTimeString: 2018-10-11T21:57:05.000-07:00
+    changes: []
+  - commitID: 7e3e12331cf946e560ef24a95cd60d74e022074f
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: new version of github
+    description: new version of github
+    timeString: 2018-10-11T21:56:32.000-07:00
+    commitTimeString: 2018-10-11T21:56:32.000-07:00
+    changes:
+    - path: HW1/Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/HW1.sln
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/HW1.sln
+      projectPath: HW1.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/CrashedAssetImports.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/CurrentLayout.dwlt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/EditorInstance.json
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ShaderCache/7/768594d9c2e9568e871411d686d987aa.bin
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ShaderCache/7/768594d9c2e9568e871411d686d987aa.bin
+      projectPath: Library/ShaderCache/7/768594d9c2e9568e871411d686d987aa.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/ShaderCache/f/fb10518efefe8e6056e5a9a132cead51.bin
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ShaderCache/f/fb10518efefe8e6056e5a9a132cead51.bin
+      projectPath: Library/ShaderCache/f/fb10518efefe8e6056e5a9a132cead51.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/assetDatabase3
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/expandedItems
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/branches.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library/metadata/18/181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library/metadata/68/68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/87/877ef3585573ce44eab899298be23158
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/87/877ef3585573ce44eab899298be23158
+      projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/87/877ef3585573ce44eab899298be23158.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/87/877ef3585573ce44eab899298be23158.info
+      projectPath: Library/metadata/87/877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library/metadata/da/dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-12f7abe89c4394c3aab29c909c76b5e5
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-12f7abe89c4394c3aab29c909c76b5e5
+      projectPath: Temp/UnityTempFile-12f7abe89c4394c3aab29c909c76b5e5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      projectPath: Temp/UnityTempFile-1faefc77e948941e999f0ab77b6ea64c
+      originalPath: HW1/Temp/UnityTempFile-0a2ba5d4c4b444c979339d2a3650878c
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      projectPath: Temp/UnityTempFile-3c105b1de90f2414fa3dfaa80f535b69
+      originalPath: HW1/Temp/UnityTempFile-23d1d5b2286754f298f172edcbee754c
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-7336e4f2dccc84427875d1f171667bc6
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-7336e4f2dccc84427875d1f171667bc6
+      projectPath: Temp/UnityTempFile-7336e4f2dccc84427875d1f171667bc6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-8cbfe6a12bb2d4e9c9a9d164ff816767
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-8cbfe6a12bb2d4e9c9a9d164ff816767
+      projectPath: Temp/UnityTempFile-8cbfe6a12bb2d4e9c9a9d164ff816767
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-969f3ca1b20cf4b129ff9531f0d1ff93
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-969f3ca1b20cf4b129ff9531f0d1ff93
+      projectPath: Temp/UnityTempFile-969f3ca1b20cf4b129ff9531f0d1ff93
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-a249f4825815b4dfbbbf1251e8fddd92
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-a249f4825815b4dfbbbf1251e8fddd92
+      projectPath: Temp/UnityTempFile-a249f4825815b4dfbbbf1251e8fddd92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-a63db79dfb53a480a971d427de4fa8c7
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-a63db79dfb53a480a971d427de4fa8c7
+      projectPath: Temp/UnityTempFile-a63db79dfb53a480a971d427de4fa8c7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      projectPath: Temp/UnityTempFile-b7539b8d5dead40c38beec7720007d1d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-b9569c25a7926410bbcecfba5982f81d
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-b9569c25a7926410bbcecfba5982f81d
+      projectPath: Temp/UnityTempFile-b9569c25a7926410bbcecfba5982f81d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      projectPath: Temp/UnityTempFile-c54e0e92ac3604c0b94cf0253c88bd15
+      originalPath: HW1/Temp/UnityTempFile-2967d19b57a494f69a4e25f75d956649
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      projectPath: Temp/UnityTempFile-cd1068ebc93ca44f9beb7e196b76abaf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      projectPath: Temp/UnityTempFile-d54116ee1cf7b4d59a3ff987376c6d19
+      originalPath: HW1/Temp/UnityTempFile-dcd2169bdf40249d288253b832e0d223
+      status: 6
+      staged: 0
+    - path: HW1/Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      projectPath: Temp/UnityTempFile-fe6fd4bd8d62647e38444d7485a9c40e
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: aff63ba4d16547ee60525b55aa95e7056fc9f1e7
+    mergeA: 533f7d02d847e8bf596d529b946c63a303d4c061
+    mergeB: 4031cfd3166d452f379dee733933802e19fe9e4a
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #7 from ruijin6000/map1'
+    description: 'Merge pull request #7 from ruijin6000/map1
+
+
+      update and ready for building Map '
+    timeString: 2018-10-09T11:38:08.000-07:00
+    commitTimeString: 2018-10-09T11:38:08.000-07:00
+    changes: []
   - commitID: 4031cfd3166d452f379dee733933802e19fe9e4a
     mergeA: 
     mergeB: 
