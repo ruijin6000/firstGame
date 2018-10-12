@@ -17,5 +17,6 @@ public class Player : MonoBehaviour {
         var ud = Input.GetAxis("Vertical");
        body2d.velocity = new Vector2(speed *lr,speed*ud);
 
+    
 	}
 }
