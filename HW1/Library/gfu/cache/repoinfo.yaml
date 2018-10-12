@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-10-09T11:36:36.599-07:00
-  initializedAtString: 2018-10-09T11:12:01.427-07:00
+  lastUpdatedAtString: 2018-10-11T21:55:05.721-07:00
+  initializedAtString: 2018-10-11T21:55:05.721-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/ruijin6000/firstGame.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: map1
-    tracking: '[None]'
+    tracking: origin/map1
   currentConfigBranch:
     name: map1
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/ruijin6000/firstGame.git
+    trackingBranch: map1
   currentConfigRemote:
     name: origin
     url: https://github.com/ruijin6000/firstGame.git
-  currentHead: 533f7d0
+  currentHead: 4031cfd
