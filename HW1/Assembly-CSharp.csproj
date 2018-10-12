@@ -53,38 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\Attirbute\BulletAttribute.cs" />
-     <Compile Include="Assets\Script\Attirbute\CollectableAttribute.cs" />
-     <Compile Include="Assets\Script\Attirbute\DestroyForPointsAttribute.cs" />
-     <Compile Include="Assets\Script\Attirbute\HealthSystemAttribute.cs" />
-     <Compile Include="Assets\Script\Attirbute\ModifyHealthAttribute.cs" />
-     <Compile Include="Assets\Script\Attirbute\ResourceAttribute.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\ConsumeResourceAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\CreateObjectAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\DestroyAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\DialogueBalloonAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\LoadLevelAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\OnOffAction.cs" />
-     <Compile Include="Assets\Script\Condtion\Action\TeleportAction.cs" />
-     <Compile Include="Assets\Script\Condtion\ConditionArea.cs" />
-     <Compile Include="Assets\Script\Condtion\ConditionCollision.cs" />
-     <Compile Include="Assets\Script\Condtion\ConditionKeyPress.cs" />
-     <Compile Include="Assets\Script\Condtion\ConditionRepeat.cs" />
-     <Compile Include="Assets\Script\GamePlay\AutoObjectSpawner.cs" />
-     <Compile Include="Assets\Script\GamePlay\ObjectShooter.cs" />
-     <Compile Include="Assets\Script\GamePlay\PickUpAndHold.cs" />
-     <Compile Include="Assets\Script\GamePlay\TimedSelfDestruct.cs" />
-     <Compile Include="Assets\Script\Movement\AutoMove.cs" />
-     <Compile Include="Assets\Script\Movement\AutoRotate.cs" />
-     <Compile Include="Assets\Script\Movement\CameraFollow.cs" />
-     <Compile Include="Assets\Script\Movement\FollowTarget.cs" />
-     <Compile Include="Assets\Script\Movement\Jump.cs" />
-     <Compile Include="Assets\Script\Movement\Move.cs" />
-     <Compile Include="Assets\Script\Movement\Patrol.cs" />
-     <Compile Include="Assets\Script\Movement\Push.cs" />
-     <Compile Include="Assets\Script\Movement\Rotate.cs" />
-     <Compile Include="Assets\Script\Movement\Wander.cs" />
-     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Script\Player.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
