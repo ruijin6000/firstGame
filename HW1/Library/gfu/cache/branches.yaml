@@ -12,21 +12,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-10-11T21:55:05.717-07:00
-  initializedAtString: 2018-10-11T21:55:05.697-07:00
+  lastUpdatedAtString: 2018-10-12T09:55:30.649-07:00
+  initializedAtString: 2018-10-12T09:55:30.631-07:00
   localBranches:
-  - name: map1
-    tracking: origin/map1
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/finishSetUp
-    tracking: '[None]'
-  - name: origin/map1
-    tracking: '[None]'
-  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -38,14 +30,8 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - map1
     - master
     values:
-    - name: map1
-      remote:
-        name: origin
-        url: https://github.com/ruijin6000/firstGame.git
-      trackingBranch: map1
     - name: master
       remote:
         name: origin
@@ -57,27 +43,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - finishSetUp
-      - map1
-      - master
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/ruijin6000/firstGame.git
-        trackingBranch: 
-      - name: finishSetUp
-        remote:
-          name: origin
-          url: https://github.com/ruijin6000/firstGame.git
-        trackingBranch: 
-      - name: map1
-        remote:
-          name: origin
-          url: https://github.com/ruijin6000/firstGame.git
-        trackingBranch: 
-      - name: master
         remote:
           name: origin
           url: https://github.com/ruijin6000/firstGame.git
