@@ -12,9 +12,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-12T10:31:36.736-07:00
+  lastUpdatedAtString: 2018-10-12T11:21:54.285-07:00
   initializedAtString: 2018-10-12T09:59:42.940-07:00
   log:
+  - commitID: 80a776154589a7b65b7e04b3e4840dc999581065
+    mergeA: 12c0b706211c803fedb6230a045fa3127465a87a
+    mergeB: 39a31ff544675957a21b2f841c755a9afb74dd6e
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #10 from ruijin6000/play1'
+    description: 'Merge pull request #10 from ruijin6000/play1
+
+
+      update'
+    timeString: 2018-10-12T10:40:44.000-07:00
+    commitTimeString: 2018-10-12T10:40:44.000-07:00
+    changes: []
+  - commitID: 39a31ff544675957a21b2f841c755a9afb74dd6e
+    mergeA: 
+    mergeB: 
+    authorName: RuiJin
+    authorEmail: rui.jin@sjsu.edu
+    commitEmail: rui.jin@sjsu.edu
+    commitName: RuiJin
+    summary: update
+    description: update
+    timeString: 2018-10-12T10:39:23.000-07:00
+    commitTimeString: 2018-10-12T10:39:23.000-07:00
+    changes:
+    - path: HW1/Assets/Scenes/FirstScene.unity
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Assets/Scenes/FirstScene.unity
+      projectPath: Assets/Scenes/FirstScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/CrashedAssetImports.txt
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: HW1/Library/assetDatabase3
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/branches.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: HW1/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/ruijin/Desktop/study/study_14/CS108/HW1/firstGame/HW1/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 12c0b706211c803fedb6230a045fa3127465a87a
+    mergeA: 8e174b55571a7827854fa1318b255ed90ff635bf
+    mergeB: 108327ef8c3fbabdf768a9619e1560530168aa30
+    authorName: Rui Jin
+    authorEmail: 42701613+ruijin6000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: 'Merge pull request #9 from ruijin6000/play1'
+    description: 'Merge pull request #9 from ruijin6000/play1
+
+
+      add movement'
+    timeString: 2018-10-12T10:31:29.000-07:00
+    commitTimeString: 2018-10-12T10:31:29.000-07:00
+    changes: []
   - commitID: 108327ef8c3fbabdf768a9619e1560530168aa30
     mergeA: 
     mergeB: 
