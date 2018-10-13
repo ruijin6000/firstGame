@@ -62,8 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\CameraFollow.cs" />
+    <Compile Include="Assets\Script\Monster\Destroyer.cs" />
     <Compile Include="Assets\Script\Monster\Monster.cs" />
     <Compile Include="Assets\Script\Monster\RandomMove.cs" />
+    <Compile Include="Assets\Script\Monster\Spawner.cs" />
     <Compile Include="Assets\Script\Player\Collision.cs" />
     <Compile Include="Assets\Script\Player\Player.cs" />
     <Compile Include="Assets\TileMapEditor\Scripts\TileBrush.cs" />
