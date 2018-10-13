@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-10-12T11:22:46.574-07:00
-  initializedAtString: 2018-10-12T09:55:30.641-07:00
+  lastUpdatedAtString: 2018-10-13T01:23:54.764-07:00
+  initializedAtString: 2018-10-13T01:23:54.764-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/ruijin6000/firstGame.git
