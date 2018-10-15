@@ -14,12 +14,12 @@ public class Destroyer : MonoBehaviour{
     // Update is called once per frame
     void Update()
     {  
-        //if (lifeTime >0) {
-        //    lifeTime -= Time.deltaTime;
-        //    if (lifeTime <= 0) {
-        //        destruction();
-        //    }
-        //}
+        if (lifeTime >0) {
+            lifeTime -= Time.deltaTime;
+            if (lifeTime <= 0) {
+                destruction();
+            }
+        }
 
     }
 
