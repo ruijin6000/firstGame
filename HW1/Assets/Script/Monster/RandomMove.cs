@@ -36,6 +36,7 @@ public class RandomMove : MonoBehaviour {
         targetAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90; //angle of rotation of gameobject
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(0, 0, targetAngle), turnSpeed * Time.deltaTime); //rotation from current direction to target direction
     }
+
     void OnCollisionEnter2D()
     {
 
