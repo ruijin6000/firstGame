@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour {
      public new string name = "name";
 	 private Rigidbody2D body2d;
-	 public float speed = 5f;
+	 public float speed = 1f;
 	// Use this for initialization
 	void Start () {
 		body2d = GetComponent<Rigidbody2D> ();
@@ -15,7 +15,7 @@ public class Player : MonoBehaviour {
 	void Update () {
 		var lr = Input.GetAxis("Horizontal");
         var ud = Input.GetAxis("Vertical");
-       body2d.velocity = new Vector2(speed *lr,speed*ud);
+       body2d.velocity = new Vector2(speed*lr,speed*ud);
 
     
 	}
