@@ -7,7 +7,7 @@
       <File FileName="Assets/Script/Monster/Monster.cs" Line="9" Column="3" />
       <File FileName="Assets/Script/Monster/Spawner.cs" Line="11" Column="1" />
       <File FileName="Assets/Script/Monster/Destroyer.cs" Line="14" Column="39" />
-      <File FileName="Assets/Script/Player/Collision.cs" Line="26" Column="1" />
+      <File FileName="Assets/Script/Player/Collision.cs" Line="15" Column="51" />
       <File FileName="Assets/Script/Player/Player.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
