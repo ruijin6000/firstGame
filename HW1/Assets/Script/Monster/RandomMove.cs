@@ -10,11 +10,14 @@ public class RandomMove : MonoBehaviour {
     Vector3 currentPos;
     bool play = true;
     Vector3 direction;
+
+
     void Start()
     {
         dir = Vector3.up;
         InvokeRepeating("Start1", 0f, 5f);
     }
+
     void Start1()
     {
         play = true;
