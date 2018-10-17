@@ -13,9 +13,9 @@ public class ButtonState
 
 public enum Directions {
     Right = 1,
-    Left = -1
-    //Up = 1,
-    //Down = -1,
+    Left = -1,
+    Up = 1,
+    Down = -1,
 
 }
 public class InPutState : MonoBehaviour
