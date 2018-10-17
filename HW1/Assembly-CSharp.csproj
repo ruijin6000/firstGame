@@ -62,6 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\CameraFollow.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\AbstractBehavior.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\FaceDirection.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\InPutManager.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\InPutState.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\SimpleMovement.cs" />
     <Compile Include="Assets\Script\Monster\Destroyer.cs" />
     <Compile Include="Assets\Script\Monster\Monster.cs" />
     <Compile Include="Assets\Script\Monster\RandomMove.cs" />
