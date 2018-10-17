@@ -10,8 +10,17 @@ public class ButtonState
     public float holdTime = 0;
 
 }
+
+public enum Directions {
+    Right = 1,
+    Left = -1
+    //Up = 1,
+    //Down = -1,
+
+}
 public class InPutState : MonoBehaviour
 {
+    public Directions direction = Directions.Right;
     private Dictionary<Buttons, ButtonState> buttonStates = new Dictionary<Buttons, ButtonState>();
 
 
@@ -25,7 +34,7 @@ public class InPutState : MonoBehaviour
 
         if (state.value && !value)
         {
-            Debug.Log("Button" + key + " released" + state.holdTime);
+            //dDebug.Log("Button" + key + " released" + state.holdTime);
             state.holdTime = 0;
         }
         else if (state.value && value)
@@ -33,7 +42,7 @@ public class InPutState : MonoBehaviour
 
             state.holdTime += Time.deltaTime;
 
-            Debug.Log("Button" + key + "down" + state.holdTime);
+           //dDebug.Log("Button" + key + "down" + state.holdTime);
         }
         state.value = value;
 
