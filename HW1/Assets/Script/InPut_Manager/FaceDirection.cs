@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class FaceDirection : AbstractBehavior {
 
-	// Use this for initialization
-	void Start () {
+    public Sprite face_up;
+    public Sprite face_down;
+    public Sprite face_right;
+
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
@@ -19,23 +23,33 @@ public class FaceDirection : AbstractBehavior {
 
 
         if (right){
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = face_right;
             inputState.direction = Directions.Right;
             Debug.Log("Direction is @@@" + inputState.direction);
         }
         else if (left){
-          
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = face_right;
             inputState.direction = Directions.Left;
             Debug.Log("Direction is @@@" + inputState.direction);
         }
-        //else if (up)  {
-        //    inputState.direction = Directions.Up;
-        //}
-        //else if (down){
-        //    inputState.direction = Directions.Down;
-        //}
-
+       
 
         transform.localScale = new Vector3((float)inputState.direction/2, (float)0.5, 1);
+
+
+        if (up) {
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = face_up;
+            //inputState.direction = Directions.Left;
+            //transform.localScale = new Vector3((float)inputState.direction/2, (float)0.7, 1);
+        }
+
+        else if (down){
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = face_down;
+            //inputState.direction = Directions.Left;
+            //transform.localScale = new Vector3((float)inputState.direction/2, (float)0.7, 1);
+        }
+
+
     }
 
 
