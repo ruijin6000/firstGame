@@ -1,15 +1,19 @@
 ﻿<Properties StartupConfiguration="{94D64F0D-5B2B-A0CC-37AC-E9C96C3FCDEF}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/InPut_Manager/FaceDirection.cs">
     <Files>
-      <File FileName="Assets/Script/CameraFollow.cs" Line="13" Column="34" />
-      <File FileName="Assets/Script/Monster/RandomMove.cs" Line="56" Column="1" />
-      <File FileName="Assets/Script/Monster/Monster.cs" Line="9" Column="3" />
-      <File FileName="Assets/Script/Monster/Spawner.cs" Line="11" Column="1" />
+      <File FileName="Assets/Script/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Monster/RandomMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Monster/Monster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Monster/Spawner.cs" Line="1" Column="1" />
       <File FileName="Assets/Script/Monster/Destroyer.cs" Line="20" Column="33" />
       <File FileName="Assets/Script/Player/Collision.cs" Line="16" Column="33" />
-      <File FileName="Assets/Script/Player/Player.cs" Line="21" Column="3" />
-      <File FileName="Temp/Compiled-Sprites-Default.shader" Line="1" Column="1" />
+      <File FileName="Assets/Script/Player/Player.cs" Line="17" Column="41" />
+      <File FileName="Assets/Script/InPut_Manager/InPutManager.cs" Line="54" Column="6" />
+      <File FileName="Assets/Script/InPut_Manager/SimpleMovement.cs" Line="17" Column="46" />
+      <File FileName="Assets/Script/InPut_Manager/InPutState.cs" Line="41" Column="1" />
+      <File FileName="Assets/Script/InPut_Manager/AbstractBehavior.cs" Line="10" Column="36" />
+      <File FileName="Assets/Script/InPut_Manager/FaceDirection.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

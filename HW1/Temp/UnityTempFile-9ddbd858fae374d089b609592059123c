@@ -188,6 +188,11 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
 'Assets/Script/CameraFollow.cs'
+'Assets/Script/InPut_Manager/AbstractBehavior.cs'
+'Assets/Script/InPut_Manager/FaceDirection.cs'
+'Assets/Script/InPut_Manager/InPutManager.cs'
+'Assets/Script/InPut_Manager/InPutState.cs'
+'Assets/Script/InPut_Manager/SimpleMovement.cs'
 'Assets/Script/Monster/Destroyer.cs'
 'Assets/Script/Monster/Monster.cs'
 'Assets/Script/Monster/RandomMove.cs'
