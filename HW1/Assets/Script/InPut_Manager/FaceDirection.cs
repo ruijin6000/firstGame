@@ -7,9 +7,8 @@ public class FaceDirection : AbstractBehavior {
     public Sprite face_up;
     public Sprite face_down;
     public Sprite face_right;
-    public Animation animation_up;
-    public Animation animation_down;
-    public Animation animation_right;
+    
+ 
     // Use this for initialization
     void Start () {
 		
@@ -26,11 +25,19 @@ public class FaceDirection : AbstractBehavior {
 
         if (right){
             this.gameObject.GetComponent<SpriteRenderer>().sprite = face_right;
+            animator.SetInteger("down_to_right", 1);
+            animator.SetInteger("down_to_up", 2);
+            animator.SetInteger("up_to_right", 1);
             inputState.direction = Directions.Right;
             Debug.Log("Direction is @@@" + inputState.direction);
+
         }
         else if (left){
             this.gameObject.GetComponent<SpriteRenderer>().sprite = face_right;
+
+            animator.SetInteger("down_to_right", 1);
+            animator.SetInteger("down_to_up", 2);
+            animator.SetInteger("up_to_right", 1);
             inputState.direction = Directions.Left;
             Debug.Log("Direction is @@@" + inputState.direction);
         }
@@ -41,6 +48,10 @@ public class FaceDirection : AbstractBehavior {
 
         if (up) {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = face_up;
+            animator.SetInteger("down_to_right", 2);
+            animator.SetInteger("down_to_up", 1);
+            animator.SetInteger("up_to_right", 0);
+
             //this.gameObject.GetComponent<Animator>().animation = animation_up;
             //inputState.direction = Directions.Left;
             //transform.localScale = new Vector3((float)inputState.direction/2, (float)0.7, 1);
@@ -48,6 +59,9 @@ public class FaceDirection : AbstractBehavior {
 
         else if (down){
             this.gameObject.GetComponent<SpriteRenderer>().sprite = face_down;
+            animator.SetInteger("down_to_right", 0);
+            animator.SetInteger("down_to_up", 0);
+            animator.SetInteger("up_to_right", 2);
             //inputState.direction = Directions.Left;
             //transform.localScale = new Vector3((float)inputState.direction/2, (float)0.7, 1);
         }
