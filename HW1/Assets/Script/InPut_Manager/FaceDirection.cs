@@ -7,7 +7,9 @@ public class FaceDirection : AbstractBehavior {
     public Sprite face_up;
     public Sprite face_down;
     public Sprite face_right;
-
+    public Animation animation_up;
+    public Animation animation_down;
+    public Animation animation_right;
     // Use this for initialization
     void Start () {
 		
@@ -39,6 +41,7 @@ public class FaceDirection : AbstractBehavior {
 
         if (up) {
             this.gameObject.GetComponent<SpriteRenderer>().sprite = face_up;
+            //this.gameObject.GetComponent<Animator>().animation = animation_up;
             //inputState.direction = Directions.Left;
             //transform.localScale = new Vector3((float)inputState.direction/2, (float)0.7, 1);
         }

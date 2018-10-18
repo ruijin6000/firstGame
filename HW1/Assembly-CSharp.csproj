@@ -66,7 +66,9 @@
     <Compile Include="Assets\Script\InPut_Manager\FaceDirection.cs" />
     <Compile Include="Assets\Script\InPut_Manager\InPutManager.cs" />
     <Compile Include="Assets\Script\InPut_Manager\InPutState.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\PlayerManager.cs" />
     <Compile Include="Assets\Script\InPut_Manager\SimpleMovement.cs" />
+    <Compile Include="Assets\Script\InPut_Manager\Walk.cs" />
     <Compile Include="Assets\Script\Monster\Destroyer.cs" />
     <Compile Include="Assets\Script\Monster\Monster.cs" />
     <Compile Include="Assets\Script\Monster\RandomMove.cs" />
