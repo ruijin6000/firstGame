@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Destroyer : MonoBehaviour{
-    public float lifeTime = 50f;
+    public float lifeTime = 350f;
 
 
     // Use this for initialization
@@ -26,6 +26,7 @@ public class Destroyer : MonoBehaviour{
 
     void destruction() {
         Destroy(this.gameObject);
+
     }
 
 }
