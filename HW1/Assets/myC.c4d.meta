@@ -25,6 +25,11 @@ ModelImporter:
     100038: Sphere_2_2
     100040: Sphere_3
     100042: Sphere_4
+    100044: Camera
+    100046: Camera_1
+    100048: Camera_2
+    100050: Camera_2_2
+    100052: Camera_3
     400000: Body
     400002: Character
     400004: CINEMA_4D_Editor
@@ -47,11 +52,21 @@ ModelImporter:
     400038: Sphere_2_2
     400040: Sphere_3
     400042: Sphere_4
+    400044: Camera
+    400046: Camera_1
+    400048: Camera_2
+    400050: Camera_2_2
+    400052: Camera_3
     2000000: CINEMA_4D_Editor
+    2000002: Camera_1
+    2000004: Camera_2
+    2000006: Camera_2_2
+    2000008: Camera_3
     2100000: Mat.1
     2100002: Mat.3
     2100004: Mat.2
     2100006: Mat
+    2100008: Animate
     2300000: Body
     2300002: Cone
     2300004: Cone_2

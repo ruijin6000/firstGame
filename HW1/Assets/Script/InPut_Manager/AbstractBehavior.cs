@@ -6,10 +6,12 @@ public abstract class AbstractBehavior : MonoBehaviour{
 
     protected InPutState inputState;
     protected Rigidbody2D body2d;
+    protected Animator animator;
 
     protected virtual void Awake(){
         inputState = GetComponent<InPutState>();
         body2d = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 
     }
     // Use this for initialization

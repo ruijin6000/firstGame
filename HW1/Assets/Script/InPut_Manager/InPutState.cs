@@ -22,7 +22,20 @@ public class InPutState : MonoBehaviour
 {
     public Directions direction = Directions.Right;
     private Dictionary<Buttons, ButtonState> buttonStates = new Dictionary<Buttons, ButtonState>();
+    public float absVelX = 0f;
+    public float absVelY = 0f;
 
+    private Rigidbody2D body2d;
+
+
+    void Awake(){
+        body2d = GetComponent<Rigidbody2D>();
+    }
+
+    private void FixedUpdate(){
+        absVelX = Mathf.Abs(body2d.velocity.x);
+        absVelY = Mathf.Abs(body2d.velocity.y);
+    }
 
 
     public void SetButtonValue(Buttons key, bool value)
