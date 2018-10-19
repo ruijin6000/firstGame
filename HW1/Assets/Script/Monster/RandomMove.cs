@@ -42,14 +42,24 @@ public class RandomMove : MonoBehaviour {
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(0, 0, targetAngle), turnSpeed * Time.deltaTime); //rotation from current direction to target direction
     }
 
-    void OnCollisionEnter2D()
+    void OnCollisionEnter2D(Collision2D col)
     {
-
         CancelInvoke();//stop call to start1 method
+
+        Debug.Log("yyyyy");
+        if (col.gameObject.tag == "energy" || col.gameObject.name == "Monster_front" || col.gameObject.name == "Monster_front(Clone)")
+        {
+            Debug.Log("cooooooooo");
+            Physics2D.IgnoreCollision(GetComponent<Collider2D>(), col.gameObject.GetComponent<Collider2D>());
+        }
+
+
         direction = new Vector3(Random.Range(-5.0f, 5.0f), Random.Range(-5.0f, 5.0f), 0); //again provide random position in x and y
         play = true;
+       
 
     }
+
     void OnCollisionExit2D()
     {
         InvokeRepeating("Start1", 0f, 3f);
