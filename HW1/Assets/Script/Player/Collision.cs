@@ -16,6 +16,18 @@ public class Collision : MonoBehaviour {
             Destroy(gameObject);
 
         }
+
+         if (col.gameObject.name == "energy")
+        {
+            Destroy(col.gameObject);
+
+        }
+
+        //if (col.gameObject.name == "energy")
+        //{
+        //    Debug.Log("cooooooooo");
+        //    Physics2D.IgnoreCollision(GetComponent<Collider2D>(), col.gameObject.GetComponent<Collider2D>());
+        //}
     }
 
     // Update is called once per frame
