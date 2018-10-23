@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Collision : MonoBehaviour {
  
@@ -14,6 +16,7 @@ public class Collision : MonoBehaviour {
 
         if (col.gameObject.tag == "monster") {
             Destroy(gameObject);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
 

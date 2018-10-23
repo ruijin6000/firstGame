@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{94D64F0D-5B2B-A0CC-37AC-E9C96C3FCDEF}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Monster/RandomMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player/NewMonoBehaviour.cs">
     <Files>
       <File FileName="Assets/Script/CameraFollow.cs" Line="28" Column="2" />
-      <File FileName="Assets/Script/Monster/RandomMove.cs" Line="63" Column="74" />
+      <File FileName="Assets/Script/Monster/RandomMove.cs" Line="50" Column="9" />
       <File FileName="Assets/Script/Monster/Monster.cs" Line="25" Column="1" />
-      <File FileName="Assets/Script/Monster/Spawner.cs" Line="25" Column="1" />
-      <File FileName="Assets/Script/Monster/Destroyer.cs" Line="30" Column="6" />
-      <File FileName="Assets/Script/Player/Collision.cs" Line="26" Column="12" />
+      <File FileName="Assets/Script/Monster/Spawner.cs" Line="20" Column="24" />
+      <File FileName="Assets/Script/Monster/Destroyer.cs" Line="21" Column="16" />
+      <File FileName="Assets/Script/Player/Collision.cs" Line="19" Column="72" />
       <File FileName="Assets/Script/Player/Player.cs" Line="17" Column="41" />
       <File FileName="Assets/Script/InPut_Manager/InPutManager.cs" Line="54" Column="6" />
       <File FileName="Assets/Script/InPut_Manager/SimpleMovement.cs" Line="30" Column="9" />
@@ -16,9 +16,11 @@
       <File FileName="Assets/Script/InPut_Manager/FaceDirection.cs" Line="57" Column="52" />
       <File FileName="Assets/Script/InPut_Manager/Walk.cs" Line="26" Column="17" />
       <File FileName="Assets/Script/InPut_Manager/PlayerManager.cs" Line="28" Column="25" />
-      <File FileName="Assets/Script/Monster/FindTarget.cs" Line="10" Column="2" />
-      <File FileName="Assets/Script/Monster/Road_TileMap.cs" Line="31" Column="1" />
+      <File FileName="Assets/Script/Monster/FindTarget.cs" Line="30" Column="31" />
+      <File FileName="Assets/Script/Monster/Road_TileMap.cs" Line="20" Column="5" />
       <File FileName="Assets/Script/Monster/Energy.cs" Line="27" Column="9" />
+      <File FileName="Assets/Script/Player/Shoot.cs" Line="9" Column="33" />
+      <File FileName="Assets/Script/Player/NewMonoBehaviour.cs" Line="5" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
