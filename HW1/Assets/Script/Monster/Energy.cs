@@ -24,7 +24,7 @@ public class Energy : MonoBehaviour {
 
         }
 
-        if ( col.gameObject.name == "Monster_front" || col.gameObject.name == "Monster_front(Clone)")
+        if ( col.gameObject.tag == "monster")
         {
 
             Physics2D.IgnoreCollision( GetComponent<Collider2D>(), col.gameObject.GetComponent<Collider2D>());

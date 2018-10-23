@@ -74,6 +74,7 @@
     <Compile Include="Assets\Script\Monster\FindTarget.cs" />
     <Compile Include="Assets\Script\Monster\Monster.cs" />
     <Compile Include="Assets\Script\Monster\RandomMove.cs" />
+    <Compile Include="Assets\Script\Monster\Road_TileMap.cs" />
     <Compile Include="Assets\Script\Monster\Spawner.cs" />
     <Compile Include="Assets\Script\Player\Collision.cs" />
     <Compile Include="Assets\Script\Player\Player.cs" />

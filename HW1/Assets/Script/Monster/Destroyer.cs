@@ -15,8 +15,8 @@ public class Destroyer : MonoBehaviour{
     void Update()
     {  
         //if (lifeTime >0) {
-        //    lifeTime -= Time.deltaTime;
-        //    if (lifeTime <= 0) {
+        //   lifeTime -= Time.deltaTime;
+        //    if (lifeTime <= 0 || this.gameObject.name == "Monster(clone)") {
         //        destruction();
         //    }
         //}

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - energy
+  - monster
+  - road
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - monster
+  - road
   - 
   - 
   - 
