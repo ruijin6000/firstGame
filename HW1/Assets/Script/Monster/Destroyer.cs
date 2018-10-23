@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Destroyer : MonoBehaviour{
-    public float lifeTime = 15f;
+    public float lifeTime = 50f;
 
 
     // Use this for initialization
@@ -16,7 +16,7 @@ public class Destroyer : MonoBehaviour{
     {  
         if (lifeTime >0) {
            lifeTime -= Time.deltaTime;
-            if (lifeTime <= 0 || this.gameObject.name == "Monster(clone)") {
+            if (lifeTime <= 0 ) {
                 destruction();
             }
         }
