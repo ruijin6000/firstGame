@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         
-	}
+     }
 	
 	// Update is called once per frame
 	void Update () {
@@ -22,7 +22,7 @@ public class Spawner : MonoBehaviour {
             //Random.Range(1f, 5f);
             Instantiate(spawnee, spawnPos.position, spawnPos.rotation);
             time = 0;
-            Debug.Log(time);
+            Debug.Log("time " + time);
         }
     }
 }

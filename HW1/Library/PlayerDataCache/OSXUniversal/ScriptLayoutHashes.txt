@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-/Users/ruijin/Desktop/test1.app
+/Users/ruijin/Desktop/FindEnergyBar(mac).app
 SceneListBegin?
 Assets/Scenes/4th_Scene.unity
 SceneListEnd?
@@ -185,3 +185,4 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 b360c206d7740077342c2b038f873cc9 Assembly-CSharp.dll:.Spawner
 292ecdb43a8fb7ad413a35bef17d1276 Assembly-CSharp.dll:.InPutManager
 7a95f471df4ef2be709d10536b295893 Assembly-CSharp.dll:.InPutState
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Energy

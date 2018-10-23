@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomMove : MonoBehaviour {
+public class RandomMove : MonoBehaviour
+{
     public float moveSpeed;
     public Vector3 dir;
     public float turnSpeed;
@@ -15,13 +16,13 @@ public class RandomMove : MonoBehaviour {
     void Start()
     {
         dir = Vector3.up;
-        InvokeRepeating("Start1", 0f, 3f);
+        InvokeRepeating("Start1", 0f, 5f);
     }
 
     void Start1()
     {
         play = true;
-        direction = new Vector3(Random.Range(-5.0f, 5.0f), Random.Range(-5.0f, 5.0f), 0); //random position in x and y
+        direction = new Vector3(Random.Range(-3.0f, 3.0f), Random.Range(-4.0f, 4.0f), 0); //random position in x and y
     }
 
     void Update()
@@ -35,11 +36,12 @@ public class RandomMove : MonoBehaviour {
             dir.Normalize();
             play = false;
         }
+
         Vector3 target = dir * moveSpeed + currentPos;  //calculating target position
         transform.position = Vector3.Lerp(currentPos, target, Time.deltaTime);//movement from current position to target position
-       
         targetAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90; //angle of rotation of gameobject
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(0, 0, targetAngle), turnSpeed * Time.deltaTime); //rotation from current direction to target direction
+
     }
 
     void OnCollisionEnter2D(Collision2D col)
@@ -47,25 +49,28 @@ public class RandomMove : MonoBehaviour {
         CancelInvoke();//stop call to start1 method
 
         Debug.Log("yyyyy");
-        if (col.gameObject.tag == "energy" || col.gameObject.name == "Monster_front" || col.gameObject.name == "Monster_front(Clone)")
+        if (col.gameObject.tag == "energy" || col.gameObject.tag == "monster" || col.gameObject.tag== "road")
         {
             Debug.Log("cooooooooo");
             Physics2D.IgnoreCollision(GetComponent<Collider2D>(), col.gameObject.GetComponent<Collider2D>());
         }
 
 
-        direction = new Vector3(Random.Range(-5.0f, 5.0f), Random.Range(-5.0f, 5.0f), 0); //again provide random position in x and y
+        direction = new Vector3(Random.Range(-3.0f, 3.0f), Random.Range(-4.0f, 4.0f), 0); //again provide random position in x and y
         play = true;
-       
 
+        
     }
 
     void OnCollisionExit2D()
     {
-        InvokeRepeating("Start1", 0f, 3f);
+        InvokeRepeating("Start1", 2f, 5f);
     }
-}
 
+
+   
+
+}
 
 
 
