@@ -17,10 +17,11 @@ public class Spawner : MonoBehaviour {
 
         time += Time.deltaTime;
 
-        if (time > 10f)
+        if (time > 5f)
         {
             //Random.Range(1f, 5f);
-            Instantiate(spawnee, spawnPos.position, spawnPos.rotation);
+            GameObject temp = Instantiate(spawnee, spawnPos.position, spawnPos.rotation);
+            temp.AddComponent<Destroyer>();
             time = 0;
             Debug.Log("time " + time);
         }
