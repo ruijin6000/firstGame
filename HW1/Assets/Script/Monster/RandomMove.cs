@@ -48,8 +48,7 @@ public class RandomMove : MonoBehaviour
     {
         CancelInvoke();//stop call to start1 method
 
-        Debug.Log("yyyyy");
-        if (col.gameObject.tag == "energy" || col.gameObject.tag == "monster" || col.gameObject.tag== "road")
+        if (col.gameObject.tag == "energy" || col.gameObject.tag == "monster" )
         {
             Debug.Log("cooooooooo");
             Physics2D.IgnoreCollision(GetComponent<Collider2D>(), col.gameObject.GetComponent<Collider2D>());
