@@ -7,6 +7,7 @@ TagManager:
   - energy
   - monster
   - road
+  - text
   layers:
   - Default
   - TransparentFX

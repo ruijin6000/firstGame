@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{94D64F0D-5B2B-A0CC-37AC-E9C96C3FCDEF}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Monster/RandomMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player/Player.cs">
     <Files>
       <File FileName="Assets/Script/CameraFollow.cs" Line="28" Column="2" />
       <File FileName="Assets/Script/Monster/RandomMove.cs" Line="50" Column="1" />
@@ -8,7 +8,7 @@
       <File FileName="Assets/Script/Monster/Spawner.cs" Line="27" Column="10" />
       <File FileName="Assets/Script/Monster/Destroyer.cs" Line="20" Column="31" />
       <File FileName="Assets/Script/Player/Collision.cs" Line="4" Column="1" />
-      <File FileName="Assets/Script/Player/Player.cs" Line="21" Column="1" />
+      <File FileName="Assets/Script/Player/Player.cs" Line="20" Column="16" />
       <File FileName="Assets/Script/InPut_Manager/InPutManager.cs" Line="44" Column="15" />
       <File FileName="Assets/Script/InPut_Manager/SimpleMovement.cs" Line="30" Column="9" />
       <File FileName="Assets/Script/InPut_Manager/InPutState.cs" Line="56" Column="31" />
