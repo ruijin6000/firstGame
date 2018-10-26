@@ -26,13 +26,13 @@ public class Player : MonoBehaviour {
         //var lr = Input.GetAxis("Horizontal");
         // var ud = Input.GetAxis("Vertical");
         //body2d.velocity = new Vector2(speed*lr,speed*ud);
-       //bar_num.text = "Energy Bar Number :" + energyBar_number_collected;
+       bar_num.text = "Number Energy Bar Left :" + energyBar_number_collected;
 
         Debug.Log("bar number is " + energyBar_number_collected);
 
         if (energyBar_number_collected==0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene("End_Scene");
         }
 
 
