@@ -6807,7 +6807,7 @@ Prefab:
     - target: {fileID: 20722163784803712, guid: dfdc2c60d4bac431db16476850109b6c,
         type: 2}
       propertyPath: orthographic size
-      value: 2.9830656
+      value: 3.3139725
       objectReference: {fileID: 0}
     - target: {fileID: 20722163784803712, guid: dfdc2c60d4bac431db16476850109b6c,
         type: 2}
@@ -9049,7 +9049,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.7858338, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
